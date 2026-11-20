@@ -7,13 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌟 Founder & Creative Head [Indexo Tech](www.indexotech.in)
+- 🌟 Founder @ [Indexo Tech](www.indexotech.in)
 
 - 🌱 I’m currently learning **React Native**
 
 - 🔭 I’m currently working on [Griham Architects](https://sanincp.github.io/griham-new/)
 
-- ✅ Recently completed work [Bella Weddings & Events](https://bellaweddings.in/)
+- ✅ Recently completed work [Bella Weddings & Events](https://www.wanderwayllp.com/)
 
 - 💬 Ask me about **React , UI/UX**
 
